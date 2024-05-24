@@ -3,7 +3,7 @@
 
 Welcome to my To-Do List Website project! This project is a simple, yet powerful, to-do list application built using HTML, CSS, and JavaScript. 
 
-![To-Do List](todo-list.png)
+![To-Do List](todo-image.png)
 
 ## 🌟 Features
 
