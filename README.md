@@ -11,7 +11,6 @@ Welcome to my To-Do List Website project! This project is a simple, yet powerful
 - **Edit Tasks**: Modify existing tasks.
 - **Delete Tasks**: Remove tasks that are completed or no longer needed.
 - **Responsive Design**: Works on all device sizes.
-- **Animations**: Smooth animations for adding and removing tasks.
 
 ## 🌐 Live Demo
 
